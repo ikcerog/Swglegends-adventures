@@ -9,6 +9,10 @@
   color: #fff !important;
 }
 
+*[style*="border-bottom"] {
+  border-bottom: 1px dashed #fff !important;
+}
+
 body {
   background-image: url("https://ikcerog.github.io/Swglegends-adventures/assets/img/waves.svg");
   background-size: cover !important;
