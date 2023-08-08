@@ -22,6 +22,7 @@ title: Ikcerog's SWG Legends Adventures
 </div>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
   .blog-container {
     display: flex;
     justify-content: space-between;
