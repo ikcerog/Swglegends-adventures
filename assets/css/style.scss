@@ -61,6 +61,7 @@ ul#cards {
   }
   ul#cards {
     flex-direction: column;
+    max-width: calc(100% - 20px);
   }
   #main_content table {
     max-width: 95vw !important;
