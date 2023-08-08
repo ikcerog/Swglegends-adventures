@@ -13,6 +13,10 @@
   border-bottom: 1px dashed #fff !important;
 }
 
+#main_content * {
+  max-width: 100%;
+}
+
 body {
   background-image: url("https://ikcerog.github.io/Swglegends-adventures/assets/img/waves.svg");
   background-size: cover !important;
