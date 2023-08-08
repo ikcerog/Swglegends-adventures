@@ -1,5 +1,5 @@
 ---
-title: "A-NOOB-HOPE"
+title: "A Noob Hope"
 date: 2023-08-07
 ---
 AWESOME! ✨
