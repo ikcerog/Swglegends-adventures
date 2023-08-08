@@ -30,3 +30,36 @@ body {
 .btn-github {
   display: none !important;
 }
+
+/* ==== HERO SECTION ==== */
+
+#hero-section {
+
+}
+
+ul#cards {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.card {
+  width: calc((100% / 3) - 20px);
+  margin: 10px;
+  border-radius: 24px 0;
+  border: 1px dashed #ddd;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+@media screen and (max-width: 800px) {
+  .card {
+    width: 100%;
+  }
+  ul#cards {
+    flex-direction: column;
+  }
+}
