@@ -21,12 +21,43 @@ title: Ikcerog's SWG Legends Adventures
   </div>
 </div>
 
+<div class="card-container">
+    <div class="card">
+      <div class="card-header">
+        <h2>Luke Skywalker</h2>
+      </div>
+      <div class="card-body">
+        <p>The last hope of the Jedi.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <h2>Princess Leia</h2>
+      </div>
+      <div class="card-body">
+        <p>Royal diplomat and leader of the Rebel Alliance.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <h2>Darth Vader</h2>
+      </div>
+      <div class="card-body">
+        <p>The dark lord of the Sith.</p>
+      </div>
+    </div>
+  </div>
+
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
+  /*@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
 
   * {
     font-family: Oswald !important;
-  }
+  }*/
+
+  
   
   .blog-container {
     display: flex;
@@ -40,4 +71,50 @@ title: Ikcerog's SWG Legends Adventures
     border: 1px solid #ccc;
     margin: 10px;
   }
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.card {
+  width: 300px;
+  margin: 20px;
+  background-color: #222;
+  border: 1px solid #444;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  padding: 20px;
+  background-color: #333;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-header h2 {
+  margin: 0;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body p {
+  margin: 0;
+}
+
+  
 </style>
