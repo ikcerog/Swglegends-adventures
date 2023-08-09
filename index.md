@@ -30,7 +30,7 @@ title: Ikcerog's SWG Legends Adventures
 
   <h1 class="starter">Heading 1</h1>
 
-	<h2>Heading 2</h2>
+<h2>Heading 2</h2>
 
 	<h3>Heading 3</h3>
 
@@ -82,7 +82,7 @@ title: Ikcerog's SWG Legends Adventures
 	</div></div>
 <header>
 
-	<h1>Tabular data</h1>
+<h1>Tabular data</h1>
 </header>
 
 <table>
