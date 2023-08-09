@@ -25,6 +25,13 @@ title: Ikcerog's SWG Legends Adventures
         <div class="subhead">Amidst escalating protests and leaked holovids, Senator Liana Veros' alleged corruption pushes Coruscant to the brink of political upheaval.</div>
       </a>
     </li>
+    <li class="card">
+      <a href="https://www.swgaide.com" title="Crisis on Coruscant" target="_blank">
+        <div class="image" style="background-image: url('assets/img/coruscant.jpg');"></div>
+        <div class="headline">Crisis on Coruscant</div>
+        <div class="subhead">Amidst escalating protests and leaked holovids, Senator Liana Veros' alleged corruption pushes Coruscant to the brink of political upheaval.</div>
+      </a>
+    </li>
   </ul>
 </div>
 <div>
