@@ -39,7 +39,7 @@ title: Ikcerog's SWG Legends Adventures
 
 <h1>Today's Top Stories</h1>
 
-<ul>
+<ul class="latest-stories">
   <li><span><a href="#" target="_blank">Epic Battle on Tatooine:</a></span> <span>The Galactic Civil War reaches a boiling point as Rebel and Imperial forces clash in a massive conflict.</span></li>
   <li><span><a href="#" target="_blank">New Player Cities Emerge:</a></span> <span>Citizens of various species join forces to establish bustling communities across the galaxy.</span></li>
   <li><span><a href="#" target="_blank">Legendary Bounty Hunter Spotted:</a></span> <span>Rumors swirl as the infamous Boba Fett is sighted pursuing a high-value target.</span></li>
