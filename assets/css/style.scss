@@ -116,8 +116,12 @@ ul.latest-stories {
   padding-left: 0;
 }
 
-ul.latest-stories li, #main_content ul li {
+ul.latest-stories li {
   list-style-type: none !important;
   padding: 8px 0;
   border-bottom: 1px dashed #ffffff33;
+}
+
+#main_content ul li {
+  list-style-type: none !important;
 }
