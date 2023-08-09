@@ -4,13 +4,29 @@ title: Ikcerog's SWG Legends Adventures
 
 <div id="hero-section">
   <ul id="cards">
-    <li class="card">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec justo et enim fringilla maximus. Etiam dapibus rutrum lectus, ac aliquam leo ornare at.</li>
-    <li class="card">Thing</li>
-    <li class="card">Thing</li>
+    <li class="card">
+      <a href="https://google.com" title="Awesome.">
+        <div class="image" style="background-image: url('https://via.placeholder.com/900x500');"></div>
+        <div class="headline">test</div>
+        <div class="subhead">test</div>
+      </a>
+    </li>
+    <li class="card">
+      <a href="https://google.com" title="Awesome.">
+        <div class="image" style="background-image: url('https://via.placeholder.com/900x500');"></div>
+        <div class="headline">test</div>
+        <div class="subhead">test</div>
+      </a>
+    </li>
+    <li class="card">
+      <a href="https://google.com" title="Awesome.">
+        <div class="image" style="background-image: url('https://via.placeholder.com/900x500');"></div>
+        <div class="headline">test</div>
+        <div class="subhead">test</div>
+      </a>
+    </li>
   </ul>
 </div>
-
-<div>
 
   <h1 class="starter">Heading 1</h1>
 
