@@ -26,10 +26,10 @@ title: Ikcerog's SWG Legends Adventures
       </a>
     </li>
     <li class="card">
-      <a href="https://www.swgaide.com" title="Crisis on Coruscant" target="_blank">
-        <div class="image" style="background-image: url('assets/img/coruscant.jpg');"></div>
-        <div class="headline">Crisis on Coruscant</div>
-        <div class="subhead">Amidst escalating protests and leaked holovids, Senator Liana Veros' alleged corruption pushes Coruscant to the brink of political upheaval.</div>
+      <a href="https://en.wikipedia.org/wiki/Star_Wars_Galaxies" title="Reopening of Interplanetary Trade Routes Brings Promise and Caution" target="_blank">
+        <div class="image" style="background-image: url('assets/img/boba.jpg');"></div>
+        <div class="headline">Reopening of Interplanetary Trade Routes Brings Promise and Caution</div>
+        <div class="subhead">Newfound opportunities amidst lingering concerns of encounters with marauders and uncharted gravitational anomalies.</div>
       </a>
     </li>
   </ul>
