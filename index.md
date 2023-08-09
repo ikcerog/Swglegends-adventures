@@ -37,9 +37,9 @@ title: Ikcerog's SWG Legends Adventures
 <div>
 <div>
 
-<h1>Today's Top Stories</h1>
-
-<ul class="latest-stories">
+<h1>Top Stories</h1>
+<div id="top-stories"
+<ul>
   <li><span><a href="#" target="_blank">Epic Battle on Tatooine:</a></span> <span>The Galactic Civil War reaches a boiling point as Rebel and Imperial forces clash in a massive conflict.</span></li>
   <li><span><a href="#" target="_blank">New Player Cities Emerge:</a></span> <span>Citizens of various species join forces to establish bustling communities across the galaxy.</span></li>
   <li><span><a href="#" target="_blank">Legendary Bounty Hunter Spotted:</a></span> <span>Rumors swirl as the infamous Boba Fett is sighted pursuing a high-value target.</span></li>
@@ -66,6 +66,7 @@ title: Ikcerog's SWG Legends Adventures
   <li><span><a href="#" target="_blank">Intergalactic Music Sensation Takes Center Stage:</a></span> <span>A mesmerizing performer captivates audiences with a transcendent musical experience.</span></li>
   <li><span><a href="#" target="_blank">Secrets of the Force-imbued Forest Revealed:</a></span> <span>Explorers delve into the mystical depths of the Force-sensitive woods on Dathomir.</span></li>
 </ul>
+</div>
 
 
 <h1 class="starter">Heading 1</h1>
