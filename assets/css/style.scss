@@ -107,3 +107,15 @@ ul#cards {
     flex-direction: column;
   }
 }
+
+/* LATEST NEWS */
+ul.latest-news {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+ul.latest-news li {
+  list-style-type: none !important;
+  padding: 8px 0;
+  border-bottom: 1px dashed #ffffff33;
+}
