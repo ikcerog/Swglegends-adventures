@@ -5,15 +5,15 @@ title: Ikcerog's SWG Legends Adventures
 <div id="hero-section">
   <ul id="cards">
     <li class="card">
-      <a href="https://google.com" title="Awesome.">
-        <div class="image" style="background-image: url('https://via.placeholder.com/900x500');"></div>
+      <a href="[https://google.com](https://ikcerog.github.io/Swglegends-adventures/2023/08/07/A-NOOB-HOPE.html)" title="A Noob Hope.">
+        <div class="image" style="background-image: url('first-photo.png');"></div>
         <div class="headline">test</div>
         <div class="subhead">test</div>
       </a>
     </li>
     <li class="card">
-      <a href="https://google.com" title="Awesome.">
-        <div class="image" style="background-image: url('https://via.placeholder.com/900x500');"></div>
+      <a href="https://google.com" title="Sweeeet.">
+        <div class="image" style="background-image: url('/assets/img/waves.svg');"></div>
         <div class="headline">test</div>
         <div class="subhead">test</div>
       </a>
