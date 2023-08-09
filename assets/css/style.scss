@@ -42,14 +42,35 @@ ul#cards {
 }
 
 .card {
+  background: rgba(255,255,255,0.4);
   width: calc((100% / 3) - 20px);
   margin: 10px;
   border-radius: 24px 0;
-  border: 1px dashed #ddd;
-  padding: 16px;
+  border: 2px solid #ddd;
   display: flex;
   justify-content: center;
   align-content: center;
+  overflow: hidden;
+}
+
+.card a {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  align-content: center;
+  justify-content: center;
+}
+
+.card .image {
+  height: 240px;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.card .headline, .card .subhead {
+  padding: 8px;
 }
 
 @media screen and (max-width: 800px) {
@@ -57,6 +78,7 @@ ul#cards {
     width: calc(100% - 16px);
     margin: 10px 0;
   }
+  
   ul#cards {
     flex-direction: column;
     max-width: calc(100% - 20px);
