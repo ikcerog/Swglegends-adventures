@@ -35,11 +35,18 @@ body {
 }
 
 ul#cards {
-  display: flex;
+  display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    max-width: 900px;
+    margin: 0 auto;
   list-style-type: none;
   padding-left: 0px;
   margin-left: 0px;
-  justify-content: space-between;
+}
+
+.card:nth-child(1) {
+  grid-column: span 3;
 }
 
 .card {
@@ -89,6 +96,7 @@ ul#cards {
   }
   
   ul#cards {
+    display: flex;
     flex-direction: column;
   }
   #main_content table {
