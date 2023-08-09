@@ -5,7 +5,7 @@ title: Ikcerog's SWG Legends Adventures
 <div id="hero-section">
   <ul id="cards">
     <li class="card">
-      <a href="[https://google.com](https://ikcerog.github.io/Swglegends-adventures/2023/08/07/A-NOOB-HOPE.html)" title="A Noob Hope.">
+      <a href="https://ikcerog.github.io/Swglegends-adventures/2023/08/07/A-NOOB-HOPE.html" title="A Noob Hope.">
         <div class="image" style="background-image: url('first-photo.png');"></div>
         <div class="headline">A Noob Hope.</div>
         <div class="subhead">All tales have an ending. And a beginning.</div>
