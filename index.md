@@ -12,14 +12,14 @@ title: Ikcerog's SWG Legends Adventures
       </a>
     </li>
     <li class="card">
-      <a href="https://google.com" title="Sweeeet.">
+      <a href="https://google.com" title="Enigmatic Echelon Syndicate Rises">
         <div class="image" style="background-image: url('assets/img/faction.png');"></div>
         <div class="headline">Enigmatic Echelon Syndicate Rises</div>
         <div class="subhead">Wielding advanced technology and a cryptic ideology that challenges both the Galactic Republic and the Sith Empire.</div>
       </a>
     </li>
     <li class="card">
-      <a href="https://google.com" title="Awesome.">
+      <a href="https://google.com" title="Crisis on Coruscant">
         <div class="image" style="background-image: url('assets/img/coruscant.png');"></div>
         <div class="headline">Crisis on Coruscant</div>
         <div class="subhead">Amidst escalating protests and leaked holovids, Senator Liana Veros' alleged corruption pushes Coruscant to the brink of political upheaval.</div>
