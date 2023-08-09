@@ -69,7 +69,7 @@ title: Ikcerog's SWG Legends Adventures
 </div>
 
 
-<h1 class="starter">Heading 1</h1>
+<!--h1 class="starter">Heading 1</h1>
 
 <h2>Heading 2</h2>
 
@@ -244,4 +244,4 @@ title: Ikcerog's SWG Legends Adventures
 <p>The time element:
 <time datetime="2013-04-06T12:32+00:00">2 weeks ago</time>
 </p>
-</div>
+</div-->
