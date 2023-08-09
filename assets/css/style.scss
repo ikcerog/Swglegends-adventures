@@ -58,6 +58,7 @@ ul#cards {
   justify-content: center;
   align-content: center;
   overflow: hidden;
+  transition: 0.2s;
 }
 
 .card a {
@@ -74,8 +75,9 @@ ul#cards {
   font-weight: bold;
 }
 
-.card a:hover {
-  
+.card:hover {
+  transition: 0.2s;
+  box-shadow: 0 1px 8px rgba(116,52,48, 0.4);
 }
 
 .card .image {
@@ -114,7 +116,7 @@ ul.latest-stories {
   padding-left: 0;
 }
 
-ul.latest-stories li {
+ul.latest-stories li, #main_content ul li {
   list-style-type: none !important;
   padding: 8px 0;
   border-bottom: 1px dashed #ffffff33;
