@@ -60,6 +60,16 @@ ul#cards {
   height: 100%;
   align-content: center;
   justify-content: center;
+  text-decoration: none !important;
+}
+
+.card a .headline {
+  font-size: 16pt;
+  font-weight: 700;
+}
+
+.card a:hover {
+  
 }
 
 .card .image {
