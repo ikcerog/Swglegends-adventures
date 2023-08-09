@@ -84,8 +84,8 @@ ul#cards {
 
 @media screen and (max-width: 800px) {
   .card {
-    width: calc(100% - 16px);
-    margin: 10px 0;
+    width: calc(100% - 4px);
+    margin: 0 0 24px 0;
   }
   
   ul#cards {
