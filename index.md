@@ -38,7 +38,7 @@ title: Ikcerog's SWG Legends Adventures
 <div>
 
 <h1>Top Stories</h1>
-<div id="top-stories"
+<div id="top-stories">
 <ul>
   <li><span><a href="#" target="_blank">Epic Battle on Tatooine:</a></span> <span>The Galactic Civil War reaches a boiling point as Rebel and Imperial forces clash in a massive conflict.</span></li>
   <li><span><a href="#" target="_blank">New Player Cities Emerge:</a></span> <span>Citizens of various species join forces to establish bustling communities across the galaxy.</span></li>
