@@ -64,9 +64,6 @@ ul#cards {
   transition: 0.2s;
   padding: 8px;
   background: linear-gradient(135deg, rgba(204,40,40,0.3) 0%, rgba(245,192,57,0.3) 100%);
-  box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
-  -webkit-box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
-  -moz-box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
 }
 
 .card a {
@@ -78,6 +75,9 @@ ul#cards {
   text-decoration: none !important;
   border-radius: 16px 0;
   overflow: hidden;
+  box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
+  -webkit-box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
+  -moz-box-shadow: 10px 10px 26px -4px rgba(0,0,0,0.75) inset;
 }
 
 .card a .headline {
