@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Reopening of Interplanetary Trade Routes Brings Promise and Caution"
 author: Ikcerog
-date: 2023-08-09
+date: 2023-08-11
 categories: [Science, Technology, Trade, Anomoly]
 tags: Science, Technology, Trade, Anomoly
 image: https://ikcerog.github.io/Swglegends-adventures/assets/img/boba.jpg
