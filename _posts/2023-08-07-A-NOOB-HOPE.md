@@ -2,7 +2,7 @@
 title: "A Noob Hope"
 author: ikcerog
 date: 2023-08-07
-tags: Origin, Lafayette, 2003
+tags: Origin Lafayette 2003
 ---
 <h2>Tippecanoe and Tatooine, too.</h2>
 <img src="https://raw.githubusercontent.com/ikcerog/Swglegends-adventures/main/assets/img/closeup.png" style="max-width: 100%;">
