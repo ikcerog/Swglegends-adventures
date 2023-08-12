@@ -26,7 +26,7 @@ title: Ikcerog's SWG Legends Adventures
       </a>
     </li>
     <li class="card">
-      <a href="https://en.wikipedia.org/wiki/Star_Wars_Galaxies" title="Reopening of Interplanetary Trade Routes Brings Promise and Caution" target="_blank">
+      <a href="https://ikcerog.github.io/Swglegends-adventures/2023/08/11/TRADEROUTES.html" title="Reopening of Interplanetary Trade Routes Brings Promise and Caution" target="_blank">
         <div class="image" style="background-image: url('assets/img/boba.jpg');"></div>
         <div class="headline">Reopening of Interplanetary Trade Routes Brings Promise and Caution</div>
         <div class="subhead">Newfound opportunities amidst lingering concerns of encounters with marauders and uncharted gravitational anomalies.</div>
