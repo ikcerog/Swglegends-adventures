@@ -32,6 +32,7 @@ section#main_content {
   padding: 20px;
   background: #22222222;
   backdrop-filter: blur(4px);
+  border-radius: 16px;
 }
 
 .btn-github {
@@ -137,4 +138,9 @@ div#top-stories ul li  {
   list-style-image: none !important;
   padding: 8px 0;
   border-bottom: 1px dashed #ffffff33;
+}
+
+/* ARTICLES */
+img.featured {
+  width: calc(100% + 40px)
 }
