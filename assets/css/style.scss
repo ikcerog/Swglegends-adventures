@@ -137,6 +137,7 @@ ul#cards {
 /* LATEST NEWS */
 div#top-stories ul {
   padding-inline-start: 8px;
+  font-family: Aurebesh !important;
 }
 
 div#top-stories ul li  {
@@ -144,6 +145,10 @@ div#top-stories ul li  {
   list-style-image: none !important;
   padding: 8px 0;
   border-bottom: 1px dashed #ffffff33;
+  font-family: Aurebesh !important;
+}
+
+* div#top-stories ul li * {
   font-family: Aurebesh !important;
 }
 
