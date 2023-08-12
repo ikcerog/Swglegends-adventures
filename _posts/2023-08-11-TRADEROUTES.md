@@ -4,7 +4,7 @@ author: ikcerog
 date: 2023-08-11
 tags: Science, Technology, Trade, Anomoly
 ---
-<img src="https://ikcerog.github.io/Swglegends-adventures/assets/img/boba.jpg" style="max-width: 100%;">
+<img src="https://ikcerog.github.io/Swglegends-adventures/assets/img/boba.jpg" style="max-width: 100%;" class="featured">
 <p>Coruscant Prime, Galactic Core - In a galactic move that has ignited fervor across the star systems, the Senate of the Galactic Republic has announced the long-awaited reopening of interplanetary trade routes. The hyperspace relays, dormant since the rise of the Empire, have been reactivated, promising newfound opportunities for trade and prosperity. However, as trade convoys prepare to embark on these cosmic highways, experts voice lingering concerns over potential encounters with marauders and uncharted gravitational anomalies.</p>
 
 <p>The restoration of the trade routes has been hailed as a triumph of technological ingenuity. Hyperlane recalibration utilizing quantum phase transition matrices has allowed for the synchronization of transit paths, minimizing temporal flux differentials and optimizing travel efficiency. Quantum navigational arrays, harnessing sub-entropic particles, have been deployed to chart unexplored sectors, paving the way for safer passage.</p>
