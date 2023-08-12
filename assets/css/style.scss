@@ -33,10 +33,7 @@ section#main_content {
   background: #22222222;
   backdrop-filter: blur(4px);
   border-radius: 16px;
-}
-
-section#main_content.nopad {
-  padding: 0px;
+  max-width: calc(100% - 40px) !important;
 }
 
 .btn-github {
