@@ -35,6 +35,10 @@ section#main_content {
   border-radius: 16px;
 }
 
+section#main_content.nopad {
+  padding: 0px;
+}
+
 .btn-github {
   display: none !important;
 }
