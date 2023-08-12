@@ -28,6 +28,12 @@ body {
   background-position: bottom center;
 }
 
+section#main_content {
+  padding: 20px;
+  background: #22222222;
+  backdrop-filter: blur(4px);
+}
+
 .btn-github {
   display: none !important;
 }
