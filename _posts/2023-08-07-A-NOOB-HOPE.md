@@ -5,7 +5,7 @@ date: 2023-08-07
 tags: Origin Lafayette 2003
 ---
 <h2>Tippecanoe and Tatooine, too.</h2>
-<img src="https://raw.githubusercontent.com/ikcerog/Swglegends-adventures/main/assets/img/closeup.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/ikcerog/Swglegends-adventures/main/assets/img/closeup.png" style="max-width: 100%;" class="featured">
 <p>On what presumably was to be an entirely uneventful day, I was blissfully unaware that I'd be making a fateful decision that would impact me for the next two decades and beyond...</p>
 <h3>EndGame</h3>
 <p>Wikipedia describes GameStop as:</p>
