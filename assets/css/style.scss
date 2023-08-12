@@ -152,6 +152,10 @@ div#top-stories ul li  {
   font-family: Aurebesh !important;
 }
 
+* div#top-stories ul li span:nth-child(2) {
+  font-family: 'Aurebesh Condensed', sans-serif !important;
+}
+
 /* ARTICLES */
 img.featured {
   max-width: calc(100% + 40px) !important;
