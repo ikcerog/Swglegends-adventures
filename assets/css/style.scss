@@ -111,6 +111,10 @@ ul#cards {
   padding: 16px;
 }
 
+.card .subhead {
+  font-size: 16pt;
+}
+
 @media screen and (max-width: 800px) {
   .card {
     width: calc(100% - 16px);
