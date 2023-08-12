@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;700;900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/aurebesh');
+
 
 * {
   font-family: Outfit !important;
@@ -138,6 +140,7 @@ div#top-stories ul li  {
   list-style-image: none !important;
   padding: 8px 0;
   border-bottom: 1px dashed #ffffff33;
+  font-family: Aurebesh;
 }
 
 /* ARTICLES */
