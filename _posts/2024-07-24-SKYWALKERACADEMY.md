@@ -1,7 +1,7 @@
 ---
 title: "Skywalker Academy Opens Its Doors"
 author: ikcerog
-date: 2023-08-07
+date: 2024-07-24
 tags: StarWars SkywalkerAcademy
 ---
 <h2>Skywalker Academy Welcomes Its First Class of Jedi Initiates</h2>
