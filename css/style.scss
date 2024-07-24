@@ -161,3 +161,8 @@ img.featured {
   max-width: calc(100% + 40px) !important;
   margin: 16px -20px;
 }
+
+
+.wrapper, section {
+  max-width: 1240px;
+}
