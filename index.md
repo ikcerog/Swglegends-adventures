@@ -5,10 +5,10 @@ title: Ikcerog's SWG Legends Adventures
 <div id="hero-section">
   <ul id="cards">
     <li class="card">
-      <a href="https://ikcerog.github.io/Swglegends-adventures/2023/08/07/A-NOOB-HOPE.html" title="A Noob Hope">
-        <div class="image" style="background-image: url('assets/img/tatooine-interior.jpg');"></div>
-        <div class="headline">A Noob Hope</div>
-        <div class="subhead">All grand tales have an ending. And a beginning.</div>
+      <a href="https://ikcerog.github.io/Swglegends-adventures/2024/07/024/SKYWALKERACADEMY.html" title="Skywalker Academy">
+        <div class="image" style="background-image: url('assets/img/skywalkeracademy.png');"></div>
+        <div class="headline">Skywalker Academy Opens Its Doors</div>
+        <div class="subhead">Founded by Master Luke Skywalker, the academy aims to restore the Jedi Order and train a new generation of Force-sensitive individuals.</div>
       </a>
     </li>
     <li class="card">
@@ -19,10 +19,10 @@ title: Ikcerog's SWG Legends Adventures
       </a>
     </li>
     <li class="card">
-      <a href="https://www.swgaide.com" title="Crisis on Coruscant" target="_blank">
-        <div class="image" style="background-image: url('assets/img/coruscant.jpg');"></div>
-        <div class="headline">Crisis on Coruscant</div>
-        <div class="subhead">Amidst escalating protests and leaked holovids, Senator Liana Veros' alleged corruption pushes Coruscant to the brink of political upheaval.</div>
+      <a href="https://ikcerog.github.io/Swglegends-adventures/2023/08/07/A-NOOB-HOPE.html" title="A Noob Hope">
+        <div class="image" style="background-image: url('assets/img/tatooine-interior.jpg');"></div>
+        <div class="headline">A Noob Hope</div>
+        <div class="subhead">All grand tales have an ending. And a beginning.</div>
       </a>
     </li>
     <li class="card">
