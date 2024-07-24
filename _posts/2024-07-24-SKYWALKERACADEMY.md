@@ -5,7 +5,7 @@ date: 2023-08-07
 tags: StarWars SkywalkerAcademy
 ---
 <h2>Skywalker Academy Welcomes Its First Class of Jedi Initiates</h2>
-<img src="skywalker_academy.jpg" alt="Skywalker Academy">
+<img src="https://ikcerog.github.io/Swglegends-adventures/assets/img/skywalkeracademy.png" alt="Skywalker Academy">
 <p><strong>Yavin IV -</strong> In a historic event, the newly established Skywalker Academy has officially opened its doors to the first class of Jedi initiates. Founded by Master Luke Skywalker, the academy aims to restore the Jedi Order and train a new generation of Force-sensitive individuals to protect peace and justice in the galaxy.</p>
 <p>Located on the lush moon of Yavin IV, the academy stands as a symbol of hope and renewal. The inaugural class consists of twenty young initiates, each selected for their potential and sensitivity to the Force. These students will undergo rigorous training in the ways of the Jedi, guided by Master Skywalker himself.</p>
 <blockquote>"This is the beginning of a new era. Together, we will rebuild the Jedi Order and uphold the values of peace and justice." - Luke Skywalker</blockquote>
