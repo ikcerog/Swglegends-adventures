@@ -5,7 +5,7 @@ title: Ikcerog's SWG Legends Adventures
 <div id="hero-section">
   <ul id="cards">
     <li class="card">
-      <a href="https://ikcerog.github.io/Swglegends-adventures/2024/07/024/SKYWALKERACADEMY.html" title="Skywalker Academy">
+      <a href="https://ikcerog.github.io/Swglegends-adventures/2024/07/24/SKYWALKERACADEMY.html" title="Skywalker Academy">
         <div class="image" style="background-image: url('assets/img/skywalkeracademy.png');"></div>
         <div class="headline">Skywalker Academy Opens Its Doors</div>
         <div class="subhead">Founded by Master Luke Skywalker, the academy aims to restore the Jedi Order and train a new generation of Force-sensitive individuals.</div>
