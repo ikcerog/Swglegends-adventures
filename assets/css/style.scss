@@ -24,11 +24,16 @@ a {
 }
 
 body {
-  background-image: url("https://ikcerog.github.io/Swglegends-adventures/assets/img/bg2.png");
-  background-size: cover !important;
+ body {
+  /*background-image: url("https://raw.githubusercontent.com/ikcerog/Swglegends-adventures/main/assets/img/bg1.png");*/
+  background-image: url("https://raw.githubusercontent.com/ikcerog/Swglegends-adventures/main/assets/img/evilpattern.png");
+  /*background-size: cover !important;
   background-attachment: fixed !important;
-  background-position: bottom center;
-}
+  background-position: bottom center;*/
+  background-repeat: repeat !important;
+  background-position: center center !important;
+  background-size: 50% !important;
+  }
 
 section#main_content {
   padding: 20px;
